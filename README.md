@@ -13,10 +13,13 @@ This is a simple tool to search for specific information within `.txt` files loc
 ## Installation
 
 1. Clone the repository or download the files:
-
+#### linux
 ```bash
 git clone https://github.com/Wyz1x/TxtFinder.git
 ```
+#### windows
+download project from this repository
+
 Make sure you have Python 3 installed on your computer.
 
 Place the .txt files you want to search through in the same directory as the Python script or specify the correct file path.
