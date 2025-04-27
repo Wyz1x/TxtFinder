@@ -15,7 +15,7 @@ This is a simple tool to search for specific information within `.txt` files loc
 1. Clone the repository or download the files:
 
 ```bash
-git clone https://github.com/your-username/database-search-tool.git]
+git clone https://github.com/Wyz1x/TxtFinder.git
 ```
 Make sure you have Python 3 installed on your computer.
 
